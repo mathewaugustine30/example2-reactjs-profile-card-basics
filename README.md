@@ -1,3 +1,13 @@
+
+
+
+<img width="602" alt="image" src="https://github.com/mathewaugustine30/example2-reactjs-profile-card-basics/assets/19630912/c8a00046-f8ca-4212-a3fe-0987aefa23cd">
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
